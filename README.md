@@ -39,11 +39,13 @@ If structured data accumulates naturally, the same format can be reused for **mu
 ---
 
 ## Screenshots
-All screenshots should be generated from **synthetic data** (no real patient data).
+All screenshots are generated from **synthetic data** (no real patient data).
 
-- Swimlane (single patient)
-- Swimmer (multi-patient overview)
+### Swimlane (single patient)
+![Swimlane](images/swimlane.png)
 
+### Swimmer (multi-patient overview)
+![Swimmer](images/swimmer.png)
 ---
 
 ## Quickstart
