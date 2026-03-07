@@ -49,4 +49,5 @@ All screenshots should be generated from **synthetic data** (no real patient dat
 ## Quickstart
 ### 1) Install
 ```bash
-pip install -r requirements.txtstreamlit run app.py
+pip install -r requirements.txt
+streamlit run app.py
